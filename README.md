@@ -24,7 +24,13 @@
 
 ## 🇫🇷 Français
 
-### 📌 À propos de ce dépôt
+### 📌 Available Scripts
+
+- Gamescope_Installer_en.sh [get here](https://github.com/nexgen999/PS5-Fedora_Addons-Scripts/blob/main/Scripts/Gamescope_Installer_en.sh)
+- Gamescope_Installer_fr.sh [get here](https://github.com/nexgen999/PS5-Fedora_Addons-Scripts/blob/main/Scripts/Gamescope_Installer_fr.sh)
+- Gamescope_Uninstaller_en-fr.sh [get here](https://github.com/nexgen999/PS5-Fedora_Addons-Scripts/blob/main/Scripts/Gamescope_Uninstaller_en-fr.sh)
+
+### 📌 À propos de ce dépôt / About :
 
 - PS5 - Fedora (Desktop Edition) [get here](https://github.com/nexgen999/PS5-Fedora_Desktop-Edition)
 - PS5 - Fedora (Gaming Edition)
